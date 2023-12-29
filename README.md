@@ -9,6 +9,9 @@ This repository contains the source code and files for a Netflix Analysis Dashbo
 ## Image of the Dashboard
 ![Netflix Dashboard](https://github.com/ayushieee/Netflix-Analysis/blob/main/Netflix%20Dashboard.png)
 
+## Link to Tableau Public Dashboard
+https://public.tableau.com/app/profile/ayushi.kaushik7247/viz/Netflix_Analysis_17037945943300/Dashboard1
+
 ## Features
 
 - **Content Analysis:** Explore the distribution of content across genres, release years, and ratings.
