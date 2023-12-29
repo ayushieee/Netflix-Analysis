@@ -7,7 +7,7 @@
 This repository contains the source code and files for a Netflix Analysis Dashboard created in Tableau. The dashboard provides valuable insights into Netflix's content, user engagement, and performance metrics. It leverages Tableau's powerful visualization capabilities to present the data in an intuitive and user-friendly manner.
 
 ## Image of the Dashboard
-![Netflix Dashboard](Netflix Dashboard.png)
+![Netflix Dashboard]([Netflix Dashboard.png](https://github.com/ayushieee/Netflix-Analysis/blob/main/Netflix%20Dashboard.png))
 
 
 ## Features
